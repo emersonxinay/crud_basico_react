@@ -38,7 +38,7 @@ abrimos o copiando el url al navegador
 clonando el proyecto
 
 ```bash
-git clone https://github.com/nombre_repositorio
+git clone git@github.com:emersonxinay/crud_basico_react.git
 ```
 
 nos movemos a la carpeta creada
@@ -61,3 +61,35 @@ npm run dev
 
 abrimos o copiando el url al navegador
 <a href="http://localhost:5173/">http://localhost:5173/</a>
+
+## usando git desde la terminal para guardar los cambios
+
+Para verficar si hay cambios en el repositorio de github
+
+```bash
+git fetch
+```
+
+para descargar los cambios si los deseo descargar
+
+```bash
+git pull
+```
+
+para agregar todos los cambios
+
+```bash
+git add .
+```
+
+para empaquetar la version de cambios con un nombre
+
+```bash
+git commit -m "indica que cambios realizaste"
+```
+
+para subir a subir todos los cambios
+
+```bash
+git push -u origin master
+```
