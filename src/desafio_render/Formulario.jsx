@@ -1,3 +1,4 @@
+// formulario basico sin bootstrap
 /* eslint-disable react/prop-types */
 import { useState } from "react";
 import './Formulario.css'

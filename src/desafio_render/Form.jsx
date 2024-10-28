@@ -1,3 +1,4 @@
+// formulario completo  con uso de bootstrap
 /* eslint-disable react/prop-types */
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
