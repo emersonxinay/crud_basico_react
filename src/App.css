@@ -1,0 +1,30 @@
+
+.container {
+  margin-top: 20px;
+}
+
+
+
+.col-md-6 {
+  padding: 15px;
+  border: 1px solid #ccc; /* Borde alrededor de cada columna */
+  border-radius: 5px; /* Bordes redondeados */
+  background-color: #f8f9fa; /* Color de fondo claro */
+}
+
+.alert {
+  margin-top: 15px; /* Espacio entre el mensaje y el formulario */
+}
+
+.table {
+  margin-top: 20px; /* Espacio entre el buscador y la tabla */
+}
+
+
+.btn {
+  transition: background-color 0.3s ease; /* Suaviza la transición del color del fondo */
+}
+
+.btn:hover {
+  opacity: 0.8; /* Opacidad en hover para un efecto visual */
+}
