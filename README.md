@@ -88,7 +88,7 @@ para empaquetar la version de cambios con un nombre
 git commit -m "indica que cambios realizaste"
 ```
 
-para subir a subir todos los cambios
+para subir todos los cambios
 
 ```bash
 git push -u origin master
